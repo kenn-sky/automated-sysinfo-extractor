@@ -1,4 +1,4 @@
-# automated-sysinfo-extractor
+# Automated System Info Extractor
 
 Automated System Info Extractor
 
