@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#Student: Siew Kai Yuan Kenneth, Student code: 1690073G, Class Code: CCK4_250916, Trainer Name: James 
-
 #Identify the system's public IP.
 echo "System's public IP address:"
 curl ifconfig.me && echo && echo
