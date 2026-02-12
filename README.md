@@ -11,4 +11,4 @@ Bash script that does the following:
 3.6. List active system services with their status.
 3.7. Locate the Top 10 Largest Files in /home.
 
-General Tools and Commands: curl, ifconfig/ip addr, top, ps, du, find, standard Bash scripting utilities.
+Tools and Commands used: curl, ifconfig/ip addr, top, ps, du, find, standard Bash scripting utilities.
